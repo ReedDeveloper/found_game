@@ -1,0 +1,12 @@
+[90508:68596:0209/091955.276:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v28.filemap.sogouime
+[90508:68596:0209/091955.277:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[90508:68596:0209/091955.277:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:28
+[126460:135672:0209/092752.295:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v28.filemap.sogouime
+[126460:135672:0209/092752.295:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[126460:135672:0209/092752.295:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:28
+[108572:131220:0209/093454.732:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v28.filemap.sogouime
+[108572:131220:0209/093454.732:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[108572:131220:0209/093454.732:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:28
+[132764:115880:0209/094108.433:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v28.filemap.sogouime
+[132764:115880:0209/094108.433:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[132764:115880:0209/094108.433:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:28
